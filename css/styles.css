@@ -9,7 +9,7 @@
     --color-white: #fff;
     --color-body: #e4e9f7;
     --color-light: #e0e0e0;
-}
+  }
 
 
 
@@ -18,11 +18,11 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
-}
+  }
 
 body{
     min-height: 100vh;
-}
+  }
 
 /* CONFIGURAÇÕES DA SIDEBAR */
 
@@ -308,5 +308,4 @@ body{
   }
 
 
-/* CSS TELA DE LOGIN */
 
